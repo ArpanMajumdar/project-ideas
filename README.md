@@ -12,3 +12,9 @@ Let's say sometimes you want to watch some productive videos like how to manage 
 - [ ] If a non-productive video comes when user is in productive mode, we will show a warning and try to direct him to some productive video.
 - [ ] User can set a max time limit for watching non-productive videos.
 
+## Cool github repos
+
+### BMTC data analysis
+[https://github.com/geohacker/bmtc](https://github.com/geohacker/bmtc)
+Contains scraped data and visualizations of BMTC routes. Can be used to make some app.
+
